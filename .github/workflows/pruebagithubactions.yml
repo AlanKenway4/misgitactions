@@ -2,7 +2,7 @@ name: GitHub Actions Practica
 
 on: [push]
 
-job: 
+jobs: 
   Explorado-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
